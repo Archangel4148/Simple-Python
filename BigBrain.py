@@ -1,0 +1,2 @@
+fName, lName, age, address, city, state, zip = input("Enter your first name: "), input("Enter your last name: "), input("Enter your age: "), input("Enter your street address: "), input("Enter your city name: "), input("Enter your state name: "), input("Enter your zip code: ")
+print(f"\nThis is the information you entered:\nFIRST NAME: {fName}\nLAST NAME: {lName}\nAGE: {age}\nSTREET: {address}\nCITY: {city}\nSTATE: {state}\nZIP CODE: {zip}\n\n")
